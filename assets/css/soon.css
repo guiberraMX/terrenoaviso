@@ -16,12 +16,13 @@ body {
     font-family: 'Poiret One', cursive !important;
     font-size: 2.6em;
     color: #fff;
+    text-shadow: 3px 2px 3px rgba(5, 5, 5, .9);
 }
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto Mono', light !important ;
-    
+    text-shadow: 3px 2px 4px rgba(5, 5, 5, .8);
     color: #333;
 }
 
@@ -33,7 +34,7 @@ h4 {
 h1, h2, h3 {
     font-family: 'Roboto Mono', light !important ;
     margin-top: 10px;
-    
+    text-shadow: 3px 2px 3px rgba(5, 5, 5, .9);
     text-transform: uppercase;
     margin-bottom: 30px;
 }
@@ -65,13 +66,14 @@ HEADER
     text-align: center;
     width: 130px;
     border-radius: 50%;
-    border: 4px solid rgba(255, 255, 255, .6);
+    border: 0px solid rgba(255, 255, 255, .6);
 }
 .timer_box h1{
     font-size: 48px;
     margin-top: 5px;
     margin-bottom: 0px;
     font-family: 'Roboto Mono', ;
+    text-shadow: 3px 2px 8px rgba(5, 5, 5, .8);
     color: white;
 }
 .timer_box p{ margin-top: 0px;}
