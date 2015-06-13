@@ -2,7 +2,7 @@
 MAIN STYLE
 *******************************************************************************************************************************/
 body {
-  background-color: #f2f2f2;
+  background-color: #879926;
     font-family: "Lato";
     font-weight: 300;
     font-size: 16px;
@@ -20,8 +20,8 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
-    font-weight: 300;
+    font-family: 'Roboto Mono', light !important ;
+    
     color: #333;
 }
 
@@ -31,9 +31,9 @@ h4 {
 }
 
 h1, h2, h3 {
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto Mono', light !important ;
     margin-top: 10px;
-    font-weight: bold;
+    
     text-transform: uppercase;
     margin-bottom: 30px;
 }
@@ -71,7 +71,7 @@ HEADER
     font-size: 48px;
     margin-top: 5px;
     margin-bottom: 0px;
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Roboto Mono', ;
     color: white;
 }
 .timer_box p{ margin-top: 0px;}
